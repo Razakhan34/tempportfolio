@@ -25,3 +25,6 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.email-loading {
+  background: bg-primary-500;
+}
